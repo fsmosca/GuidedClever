@@ -1,4 +1,5 @@
 # GuidedClever
+A chess engine adaptor that will select a move randomly from a multipv search info of the engine.
 
 ### Setup
 * Install python 3.8 or later  
